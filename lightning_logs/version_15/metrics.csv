@@ -1,0 +1,2 @@
+epoch,step,train_loss,train_roc_auc_score,val_loss,val_roc_auc_score
+0,162,nan,0.5,nan,0.5

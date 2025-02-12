@@ -1,0 +1,11 @@
+epoch,step,train_loss,val_loss
+0,325,nan,nan
+1,651,nan,nan
+2,977,nan,nan
+3,1303,nan,nan
+4,1629,nan,nan
+5,1955,nan,nan
+6,2281,nan,nan
+7,2607,nan,nan
+8,2933,nan,nan
+9,3259,nan,nan

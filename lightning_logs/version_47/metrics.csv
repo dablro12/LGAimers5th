@@ -1,0 +1,2 @@
+epoch,step,train_accuracy_score,train_loss,val_accuracy_score,val_loss
+0,1627,0.5000119805335999,nan,0.74005526304245,nan
