@@ -178,3 +178,8 @@ log
 .gitignore
 
 reference
+
+lightning_logs
+
+
+.gitignore
